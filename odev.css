@@ -1,0 +1,32 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+td {
+  color: purple;
+  font-family: "Montserrat", serif;
+  font-weight: 600;
+}
+a {
+  color: purple;
+  border: 2px none firebrick;
+  border-radius: 200px;
+  width: 200px;
+  border-style: none;
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+}
+a:hover {
+  background-color: yellow;
+}
+
+h1 {
+  color: purple;
+  display: inline-block;
+  font-weight: 600;
+}
