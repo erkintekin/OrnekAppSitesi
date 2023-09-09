@@ -1,5 +1,5 @@
 * {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 a {
@@ -7,11 +7,14 @@ a {
 }
 
 td {
+  font-weight: bold;
+  text-align: center;
   color: purple;
   font-family: "Montserrat", serif;
   font-weight: 600;
 }
 a {
+  text-align: center;
   color: purple;
   border: 2px none firebrick;
   border-radius: 200px;
